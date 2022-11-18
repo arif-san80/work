@@ -1,1 +1,2 @@
-Print("irfan kacak")
+print("irfan kacak")
+print("Hai ")
